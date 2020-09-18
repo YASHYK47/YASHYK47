@@ -2,7 +2,7 @@
 <h3 align="center">A MERN/PERN Stack Developer, a Keen learner, Ready to convert ideas into applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashyk47" alt="yashyk47" /> </p>
-  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw10tqPKl7IHRR8tCFHHrP2P&ust=1600549274842000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjZhe_M8-sCFQAAAAAdAAAAABB-" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
 - 🔭 I’m currently working on **a private MERN Stack project.**
 
