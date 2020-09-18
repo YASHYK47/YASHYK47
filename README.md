@@ -24,8 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyk47&layout=compact" alt="yashyk47" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashyk47&show_icons=true" alt="yashyk47" /></p>
-
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some Stats ?
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashyk47&show_icons=true&hide=["contribs"]&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
