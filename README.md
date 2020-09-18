@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yash Kesarwani</h1>
-<h3 align="center">A MERN/PERN Stack Developer, a keen learner, always ready to convert idea into application.</h3>
+<h1 align="center">Hi 👋, I am Yash Kesarwani</h1>
+<h3 align="center">A MERN/PERN Stack Developer, a Keen learner, Ready to convert ideas into applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashyk47" alt="yashyk47" /> </p>
-
+  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw10tqPKl7IHRR8tCFHHrP2P&ust=1600549274842000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjZhe_M8-sCFQAAAAAdAAAAABB-" />
+ 
 - 🔭 I’m currently working on **a private MERN Stack project.**
 
 - 🌱 I’m currently getting my hands set on **ReactJs and Redux**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-- 👨‍💻 Watch out my Resume [https://docs.google.com/document/d/14jqSm32dJ-01IW-oZEojVeq6-PFcEMFQv3IL19GGjXw/edit?usp=sharing](https://docs.google.com/document/d/14jqSm32dJ-01IW-oZEojVeq6-PFcEMFQv3IL19GGjXw/edit?usp=sharing)
+- 👨‍💻 Watch out my [Resume](https://docs.google.com/document/d/14jqSm32dJ-01IW-oZEojVeq6-PFcEMFQv3IL19GGjXw/edit?usp=sharing)
 
-- 📝 I regulary write articles on [https://www.data-stats.com/first-application-with-nodejs-and-express/](https://www.data-stats.com/first-application-with-nodejs-and-express/)
+- 📝 I have wrote 10 articles on [data-stats.com](https://www.data-stats.com/first-application-with-nodejs-and-express/)
 
 - 💬 Ask me about **NodeJs, ExpressJs, ReactJs, MongoDB, PostgreSQL, MySQL, Rest APIs, Redis, Redux**
 
