@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Yash Kesarwani</h1>
-<h3 align="center">A MERN/PERN Stack Developer, a Keen learner, Ready to convert ideas into applications.</h3>
+<h3 align="center">A MERN/PERN Stack Developer, a Keen learner, ready to convert ideas into applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashyk47" alt="yashyk47" /> </p>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -25,6 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyk47&layout=compact" alt="yashyk47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashyk47&show_icons=true" alt="yashyk47" /></p>
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some Stats ?
+[![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashyk47&show_icons=true&hide=["contribs"]&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://linkedin.com/in/yashyk47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yashyk47" height="30" width="30" /></a>
